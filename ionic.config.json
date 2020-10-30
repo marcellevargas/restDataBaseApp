@@ -1,0 +1,7 @@
+{
+  "name": "restDataBaseApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
